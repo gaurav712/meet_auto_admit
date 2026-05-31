@@ -1,3 +1,5 @@
+> **Note:** This project is moved to Codeberg: https://codeberg.org/gaurav712/meet_auto_admit
+
 # Meet Auto Admit
 Chrome extention to automatically admit people to a Google Meet video meeting.
 
